@@ -11,10 +11,6 @@
 ---
 
 
-## License
-
-Royal News is [MIT licensed](./LICENSE).
-
 ---
 
 ***This App uses the 💙 [News API](https://newsapi.org) 💙***
